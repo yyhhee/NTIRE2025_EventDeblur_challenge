@@ -1,4 +1,4 @@
-# NTIRE 2025 Event-Based Image Deblurring Challenge Factsheet\\Cascade Deblurimg Model With Event Edge Loss
+# NTIRE 2025 Event-Based Image Deblurring Challenge Factsheet-Cascade Deblurimg Model With Event Edge Loss
 
 Test code from https://github.com/AHupuJR/NTIRE2025_EventDeblur_challenge.git
 
