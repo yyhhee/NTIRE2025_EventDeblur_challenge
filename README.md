@@ -6,7 +6,7 @@ Download model weights： https://drive.google.com/file/d/11M5_ZspBi4mf0h10xNfuH
 
 # Testing
 
-python3 basicsr/test.py -opt options/test/HighREV/EFNet_HighREV_Deblur.yml
+python3 basicsr/4_CMSL.py -opt options/test/HighREV/EFNet_HighREV_Deblur.yml
 
 # Citations
 
