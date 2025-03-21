@@ -36,7 +36,7 @@ network_g:
 # path
 path:
   # pretrain_network_g: ./experiments/EFNet_highrev_single_deblur_debug/models/net_g_8.pth 
-  pretrain_network_g: /YOUR/PATH/TO/MODEL/xx.pth
+  pretrain_network_g: /YOUR/PATH/TO/MODEL/4_CMSL.pth
   strict_load_g: true
   resume_state: ~
   # root: /work/lei_sun/inference  # set this option ONLY in TEST!!!
