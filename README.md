@@ -8,6 +8,8 @@ Download model weights： https://drive.google.com/file/d/11M5_ZspBi4mf0h10xNfuH
 
 python3 basicsr/test.py -opt options/test/HighREV/EFNet_HighREV_Deblur.yml
 
+# Citations
+
 @inproceedings{sun2023event,
   title={Event-based frame interpolation with ad-hoc deblurring},
   author={Sun, Lei and Sakaridis, Christos and Liang, Jingyun and Sun, Peng and Cao, Jiezhang and Zhang, Kai and Jiang, Qi and Wang, Kaiwei and Van Gool, Luc},
